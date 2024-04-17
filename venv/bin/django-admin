@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/caio/Área de Trabalho/Projetos/projeto1/venv/bin/python3" "$0" "$@"
+'''exec' "/home/caio/Área de Trabalho/Projetos/curso-django/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
